@@ -1,4 +1,4 @@
-# privatepolicy
+# Private Policy
 Private Policy
 
 Privacy Policy for Eigencorp LLC
